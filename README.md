@@ -10,7 +10,14 @@ Dynamic and detail-oriented Senior Accountant with over 7 years of experience in
 
 ---
 
+## 📄 My CV
+
+- [Download My CV (PDF)](./PeterAdel_CV.pdf)
+
+---
+
 ## ⚡ Top Technical Skills
+
 - **VBA & Microsoft Excel**: Advanced financial modeling, automation & reporting
 - **Power BI, Tableau, Looker Studio**: Interactive dashboards & data visualization
 - **Power Query & Power Automate**: Workflow and process automation
@@ -20,6 +27,7 @@ Dynamic and detail-oriented Senior Accountant with over 7 years of experience in
 ---
 
 ## 💹 Financial Skills
+
 - **Financial Reporting & Analysis**
 - **Budgeting & Forecasting**
 - **Auditing & Compliance**
