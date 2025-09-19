@@ -12,7 +12,7 @@ Dynamic and detail-oriented Senior Accountant with over 7 years of experience in
 
 ## 📄 My CV
 
-- [Download My CV (PDF)](./PeterAdel_CV.pdf)
+- [Download My CV (PDF)](Peter Adel(CV).pdf)
 
 ---
 
